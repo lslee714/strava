@@ -5,7 +5,7 @@ class Connector:
     @property
     def payload(self):
         """Payload for the API url"""
-        return {'Authorization': f'Bearer {os.environ["ACCESS_TOKEN"]}'}
+        return {'access_token': os.environ['ACCESS_TOKEN'],'Authorization': f'Bearer {os.environ["ACCESS_TOKEN"]}'}
 
     @property
     def api_url(self):
