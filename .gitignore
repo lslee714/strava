@@ -4,3 +4,5 @@ env.sh
 __pycache__/
 
 *.pyc
+
+tinker.py
