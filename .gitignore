@@ -8,3 +8,5 @@ __pycache__/
 tinker.py
 
 .vscode
+
+node_modules/
