@@ -2,3 +2,5 @@ env.sh
 .idea
 
 __pycache__/
+
+*.pyc
