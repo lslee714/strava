@@ -6,3 +6,5 @@ __pycache__/
 *.pyc
 
 tinker.py
+
+.vscode
