@@ -9,6 +9,7 @@
   "author": "Luke Lee",
   "license": "ISC",
   "dependencies": {
+    "parcel-bundler": "^1.12.4",
     "vue": "^2.6.11"
   }
 }
